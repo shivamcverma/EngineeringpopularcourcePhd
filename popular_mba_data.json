@@ -227,43 +227,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "292Colleges"
+              "college_count": "291  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "213Colleges"
+              "college_count": "212  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "178Colleges"
+              "college_count": "177  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "168Colleges"
+              "college_count": "167  Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "155Colleges"
+              "college_count": "154  Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "90Colleges"
+              "college_count": "89  Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "63Colleges"
+              "college_count": "63  Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "51Colleges"
+              "college_count": "51  Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "26Colleges"
+              "college_count": "27  Colleges"
             },
             {
               "specialization": "Food Technology",
-              "college_count": "20Colleges"
+              "college_count": "20  Colleges"
             }
           ]
         }
@@ -2058,6 +2058,32 @@
         },
         "questions": [
           {
+            "question_text": "Does pursuing M.E. at Chandigarh University through GATE Exam 2026 help in PhD admissions?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Chandigarh",
+                "tag_url": "https://www.shiksha.com/tags/chandigarh-tdp-386137"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nidhi Nidhi",
+                  "profile_url": "https://www.shiksha.com/userprofile/85435968"
+                },
+                "answer_text": "Pursuing an M.E. at Chandigarh University with a GATE Exam 2026 qualification can be beneficial for students aiming for research-oriented paths, including PhD programs. While GATE itself does not guarantee PhD admission, it strengthens a student's academic profile. Fellowship holders gain teaching and research exposure, which can support future doctoral applications. However, students who are not appearing for GATE 2026 can also build strong research profiles through projects, publications, and faculty guidance. GATE is an added advantage, not a requirement, for long-term academic growth.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
             "question_text": "How is research progress monitored during the DJ Sanghvi PhD journey?",
             "tags": [
               {
@@ -2079,7 +2105,7 @@
                 "answer_text": "Progress of PhD student is periodically evaluated by the Research Assessment Committee (RAC). Regular progress reports are submitted and seminars are conducted to check research direction and findings before final thesis submission.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2105,7 +2131,7 @@
                 "answer_text": "PhD specialisations at DJ Sanghvi include: Computer Engineering Electronics & Telecommunication Engineering Mechanical Engineering Each department focuses on areas such as AI/ML, IoT, and Advanced Manufacturing. If interested, choose one of these programs.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2131,7 +2157,7 @@
                 "answer_text": "Every DJ Sanghvi PhD scholar must complete structured coursework in their first year, including Research Methodology and domain-specific subjects. This phase helps candidates learn about the necessary statistical and analytical tools before transitioning into full-time research and dissertation work.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2157,7 +2183,7 @@
                 "answer_text": "Only the first two children in a family are eligible for benefits of PhD scholarship as per Maharashtra state norm. Provide a photocopy of Ration Card and a Declaration Certificate from parents or guardians to verify number of children.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2183,7 +2209,7 @@
                 "answer_text": "If you want to take benefits of PhD scholarship at DJ Sanghvi institute, you must provide an Original Income Certificate issued by the Tahasildar Office for the current financial year.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2209,7 +2235,7 @@
                 "answer_text": "Annual family income must be less than Rs. 8.00 Lacs if you want benefits of scholarship. Note that this income limit generally does not apply to SC/ST category students.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2235,7 +2261,7 @@
                 "answer_text": "DJ Sanghvi will cancel admission at any stage if information is false or if you submitted any forged documents during admission. Mention only correct information so that your admission process is smooth.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2261,7 +2287,7 @@
                 "answer_text": "Currently, DJ Sanghvi PhD admission is not open yet. Application timelines will most probably be announced mid-year, similar to earlier cycles, with deadlines given for form submission and document verification.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "22 hours ago"
               }
             ]
           },
@@ -2287,33 +2313,7 @@
                 "answer_text": "Shortlisting of DJ Sanghvi PhD candidates is on the basis of academic background, entrance scores, research alignment, and submitted documentation. After this, students are selected based on interaction or evaluation round.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Does DJ Sanghvi PhD courses accept sponsored candidates?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Disk Jockey",
-                "tag_url": "https://www.shiksha.com/tags/disk-jockey-tdp-516815"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
-                },
-                "answer_text": "Yes, DJ Sanghvi PhD admissions allow sponsored candidates, provided they have submitted valid sponsorship and experience details. All these requirements are mentioned in the PhD application form of the institute.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "23 hours ago"
               }
             ]
           }
