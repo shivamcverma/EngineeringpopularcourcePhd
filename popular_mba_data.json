@@ -1573,124 +1573,20 @@
         "stats": {
           "Questions": "6.4k",
           "Discussions": "1",
-          "Active Users": "79",
+          "Active Users": "85",
           "Followers": "7775"
         },
         "questions": [
           {
-            "question_text": "Which are the best college options for a PhD in Aerospace Engineering?",
+            "question_text": "How is the Management PhD programme at TUM?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "Aerospace Engineering",
-                "tag_url": "https://www.shiksha.com/tags/aerospace-engineering-tdp-208"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Mohit Datta",
-                  "profile_url": "https://www.shiksha.com/userprofile/78589716"
-                },
-                "answer_text": "Some of the top colleges for a PhD in Aerospace Engineering in India are here. Take a look PhD in Aerospace Engineering Colleges Course Fees IIT Bombay INR 6.78 Lakh IIT Kanpur INR 48,550 Lovely Professional University INR 3 Lakh Amity University, Noida INR 3 Lakh Karunya Institute of Technology and Sciences INR 1.2 Lakh Amity University, Mumbai INR 1.92 Lakh Note - The information is taken from the official site of the college. Know more about - Aerospace Engineering Colleges in India",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How is the Computer Science PhD programme at Harvard?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Harvard University",
-                "tag_url": "https://www.shiksha.com/usa/universities/harvard-university"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Esha Tiwari",
-                  "profile_url": "https://www.shiksha.com/userprofile/78590216"
-                },
-                "answer_text": "Harvard University provides a 5-year PhD programme through the John A Paulson School of Engineering and Applied Science. The programme will help to gain understanding about basics of Computer Science, AI, Machine Learning, Economics, Networks, Data Management, Operating Systems, and more. International applicants, who are looking for career as Lead Scientist, Researcher, Professor, Data Scientist, developer, and more should choose Ph.D. at Harvard.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Who should join Harvard for the Ph.D.?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Harvard University",
-                "tag_url": "https://www.shiksha.com/usa/universities/harvard-university"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Jiya Chauhan",
-                  "profile_url": "https://www.shiksha.com/userprofile/78590260"
-                },
-                "answer_text": "International applicants, who are looking for career as Lead Scientist, Researcher, Professor, Data Scientist, developer, and more should choose Ph.D. at Harvard University. Harvard University provides a 5-year PhD programme through the John A Paulson School of Engineering and Applied Science. The most chosen field by Indians is Computer Science. The first-year tuition fee is around INR 52L.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How much GMAT score is required for the Harvard Ph.D.?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Harvard University",
-                "tag_url": "https://www.shiksha.com/usa/universities/harvard-university"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Gupta",
-                  "profile_url": "https://www.shiksha.com/userprofile/78590078"
-                },
-                "answer_text": "GMAT and GREs are one of the crucial criteria during admission and are submitted by students to improve their profiles. 58% class submitted GMAT scores, and 42% submitted GRE scores. There is no ideal score provided by students to get into the Harvard Ph.D.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which Ph.D. Specializations are popular at Harvard?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Harvard University",
-                "tag_url": "https://www.shiksha.com/usa/universities/harvard-university"
+                "tag_name": "Technical University of Munich",
+                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
               }
             ],
             "followers": 0,
@@ -1700,101 +1596,153 @@
                   "name": "Akansha katariya",
                   "profile_url": "https://www.shiksha.com/userprofile/62699389"
                 },
-                "answer_text": "As per a renowned ranking body, Harvard is popular for various courses. The most chosen programme by Indians is Computer Science. The programme will help to gain understanding about basics of Computer Science, AI, Machine Learning, Economics, Networks, Data Management, Operating Systems, and more.",
+                "answer_text": "Technical University of Munich provides a 3-year PhD programme through the TUM school of Management. The programme will help to gain understanding about basics of gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more. International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more, should choose Ph.D. at TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           },
           {
-            "question_text": "How can an Indian get into the Harvard Ph.D.?",
+            "question_text": "Who should join TUM for the Ph.D.?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "Harvard University",
-                "tag_url": "https://www.shiksha.com/usa/universities/harvard-university"
+                "tag_name": "Technical University of Munich",
+                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Taru Bhandari",
-                  "profile_url": "https://www.shiksha.com/userprofile/78590182"
+                  "name": "Gunjan Aggrawal",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589948"
                 },
-                "answer_text": "Indian students can get into the Harvard university PhD programme by submitting proof of their qualification, work proof, and a GPA score. Students have to submit LOR, essay, SOP, transcripts, resume, and English language requirements.",
+                "answer_text": "International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more should choose Ph.D. at Technical University of Munich. Technical University of Munich provides a 3-4 year PhD programme through the Graduate school of TUM, or TUM school of Management or more based on the program. The most chosen field by Indians is Management.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           },
           {
-            "question_text": "Does Dr. D. Y. Patil College of Physiotherapy offer PhD?",
+            "question_text": "How much GPA score is required for the TUM Ph.D.?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "Dr. D. Y. Patil College of Physiotherapy, Dr. D. Y. Patil Vidyapeeth",
-                "tag_url": "https://www.shiksha.com/college/dr-d-y-patil-college-of-physiotherapy-dr-d-y-patil-vidyapeeth-pimpri-pune-36976"
+                "tag_name": "Technical University of Munich",
+                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Aishwarya Malhotra",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586922"
+                  "name": "Jasleen Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589986"
                 },
-                "answer_text": "Yes, Dr. D. Y. Patil College of Physiotherapy does offer PhD. Students can join the course after completing Master's degree with a minimum aggregate of 55%. Students also need to appear for the CET conducted by Dr DY Patil Vidyapeeth Pimpri, Pune.",
+                "answer_text": "GPA score are one of the important factor during admission and are submitted by students to improve their profiles. Students should aim 3.5 or higher to get considered by the TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           },
           {
-            "question_text": "For different study levels (MS, MBA, UG, PhD), what should I highlight in my SOP?",
+            "question_text": "Which Ph.D. programs are popular at TUM?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "M.Sc.",
-                "tag_url": "https://www.shiksha.com/tags/m-sc-tdp-966183"
+                "tag_name": "Technical University of Munich",
+                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Raushan Madavi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78546986"
+                  "name": "Mukul Thapa",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589800"
                 },
-                "answer_text": "Based on the type of course, SOP should include these pointers For MS Highlight your research experiences, academic accomplishments, and how the programme can help you attain your professional objectives. SOP for MBA should have your professional background, leadership abilities, and how the MBA will improve your understanding of business. Prioritise extracurricular activities, personal development, and interests in the classroom for UG SOP. Highlight publications, research background, and compatibility with programme specific research goals for PhD.",
+                "answer_text": "As per a renowned ranking body, TUM is popular for various courses. The most chosen programme by Indians is Management. The programme will help to gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "22 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           },
           {
-            "question_text": "Does ICFAI University, Himachal Pradesh offer PhD courses?",
+            "question_text": "How can an Indian get into the TUM Ph.D.?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "ICFAI UNIVERSITY",
-                "tag_url": "https://www.shiksha.com/tags/icfai-university-tdp-191932"
+                "tag_name": "Technical University of Munich",
+                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Piyush Pandey",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589892"
+                },
+                "answer_text": "Indian students can get into the Technical University of Munich PhD programme by submitting proof of their qualification, work proof, and a GPA score. Students have to submit LOR, essay, SOP, transcripts, resume, and English language requirements.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Does Technical University of Munich offer PhD?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Technical University of Munich",
+                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Rashmi Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/78590132"
+                },
+                "answer_text": "Technical University of Munich provides a 3-4-year PhD programme to international students. These programs are available in the different school of TUM. The programs is available through Graduate school of TUM, or TUM school of Management or more based on the program. The first-year tuition fee is nil for international students. The most chosen field by Indians is Management.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "I have scored 60% aggregate in LLM. Am I eligible for PhD at Department of Law, MDU?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Department of Law",
+                "tag_url": "https://www.shiksha.com/tags/department-of-law-tdp-2325145"
               }
             ],
             "followers": 0,
@@ -1804,36 +1752,88 @@
                   "name": "heau mishr",
                   "profile_url": "https://www.shiksha.com/userprofile/97122734"
                 },
-                "answer_text": "ICFAI University, Himachal Pradesh has on offer, a number of courses that include BTech, BBA, MBA, MCA, etc. The institute offers more than fifteen courses covering the domains of Engineering, Business Administration, Management, Computer Applications etc. Programmes are offered at the UG, PG and PhD levels.",
+                "answer_text": "The minimum eligibility for PhD at Department of Law, MDU is having a Master's degree with a minimum of 55% aggregate or its equivalent B grade in UGC seven-point scale in the subject concerned or an allied subject. Yes, you are eligible for PhD at the university.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the application fees for PhD at IIT Dhanbad?",
+            "question_text": "How many specialisation of research are available for PhD at IIT Guwahati?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
+                "tag_name": "IIT Guwahati - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Nishtha Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Candidates must apply for PhD on the official website of IIT Dhanbad. Aspirants must pay an application fees of INR 2,000 for PhD. Candidates can pay the fees via any of the online payment modes. Aspirants must keep the fee receipt with them for future references.",
+                "answer_text": "There are 11 research specialisations available for PhD courses at IIT Guwahati. These specialisations may or may not be available under all categories of PhD courses at IIT Guwahati. PhD specialisations at IIT Guwahati include the following: Computer Science and Engineering Electronics and Electrical Engineering Mechanical Engineering Civil Engineering Design Biosciences and Bioengineering Chemical Engineering Physics Chemistry Mathematics Humanities and Social Sciences",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are hostel services offered to PhD students of IIT Guwahati?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "IIT Guwahati - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "Yes, the hostel services are offered to PhD students of IIT Guwahati. However, only the regular category PhD course students receive hostel service from IIT Guwahati. Non regular category PhD students are not offered any hostel services and are required to find off site arrangements.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the fees for the Industry-Sponsored PhD students at IIT Guwahati?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "IIT Guwahati - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "The PhD students of IIT Guwahati who secured admissions under the Industry-Sponsored category will be charged INR 5 Lacs per semester as PhD fees. This makes the total PhD fees for these students INR 40 Lacs at IIT Guwahati. However, this is the only fees mentioned for these students on the website.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
               }
             ]
           }
