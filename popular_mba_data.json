@@ -203,43 +203,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "293Colleges"
+              "college_count": "293  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "214Colleges"
+              "college_count": "214  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "178Colleges"
+              "college_count": "178  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "168Colleges"
+              "college_count": "168  Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "155Colleges"
+              "college_count": "155  Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "90Colleges"
+              "college_count": "90  Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "63Colleges"
+              "college_count": "63  Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "51Colleges"
+              "college_count": "51  Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "27Colleges"
+              "college_count": "27  Colleges"
             },
             {
               "specialization": "Food Technology",
-              "college_count": "20Colleges"
+              "college_count": "20  Colleges"
             }
           ]
         }
@@ -1573,10 +1573,36 @@
         "stats": {
           "Questions": "6.4k",
           "Discussions": "1",
-          "Active Users": "87",
+          "Active Users": "80",
           "Followers": "7775"
         },
         "questions": [
+          {
+            "question_text": "Can you arrange a call from institutions that have tie up with university for PhD courses near Alwar rajasthan",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Alwar",
+                "tag_url": "https://www.shiksha.com/tags/alwar-tdp-386335"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              }
+            ]
+          },
           {
             "question_text": "How is the Management PhD programme at TUM?",
             "tags": [
@@ -1599,7 +1625,7 @@
                 "answer_text": "Technical University of Munich provides a 3-year PhD programme through the TUM school of Management. The programme will help to gain understanding about basics of gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more. International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more, should choose Ph.D. at TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1625,7 +1651,7 @@
                 "answer_text": "International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more should choose Ph.D. at Technical University of Munich. Technical University of Munich provides a 3-4 year PhD programme through the Graduate school of TUM, or TUM school of Management or more based on the program. The most chosen field by Indians is Management.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1651,7 +1677,7 @@
                 "answer_text": "GPA score are one of the important factor during admission and are submitted by students to improve their profiles. Students should aim 3.5 or higher to get considered by the TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1677,7 +1703,7 @@
                 "answer_text": "As per a renowned ranking body, TUM is popular for various courses. The most chosen programme by Indians is Management. The programme will help to gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1703,7 +1729,7 @@
                 "answer_text": "Indian students can get into the Technical University of Munich PhD programme by submitting proof of their qualification, work proof, and a GPA score. Students have to submit LOR, essay, SOP, transcripts, resume, and English language requirements.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1729,7 +1755,7 @@
                 "answer_text": "Technical University of Munich provides a 3-4-year PhD programme to international students. These programs are available in the different school of TUM. The programs is available through Graduate school of TUM, or TUM school of Management or more based on the program. The first-year tuition fee is nil for international students. The most chosen field by Indians is Management.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1755,7 +1781,7 @@
                 "answer_text": "The minimum eligibility for PhD at Department of Law, MDU is having a Master's degree with a minimum of 55% aggregate or its equivalent B grade in UGC seven-point scale in the subject concerned or an allied subject. Yes, you are eligible for PhD at the university.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1781,7 +1807,7 @@
                 "answer_text": "There are 11 research specialisations available for PhD courses at IIT Guwahati. These specialisations may or may not be available under all categories of PhD courses at IIT Guwahati. PhD specialisations at IIT Guwahati include the following: Computer Science and Engineering Electronics and Electrical Engineering Mechanical Engineering Civil Engineering Design Biosciences and Bioengineering Chemical Engineering Physics Chemistry Mathematics Humanities and Social Sciences",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1807,33 +1833,7 @@
                 "answer_text": "Yes, the hostel services are offered to PhD students of IIT Guwahati. However, only the regular category PhD course students receive hostel service from IIT Guwahati. Non regular category PhD students are not offered any hostel services and are required to find off site arrangements.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the fees for the Industry-Sponsored PhD students at IIT Guwahati?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "IIT Guwahati - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "The PhD students of IIT Guwahati who secured admissions under the Industry-Sponsored category will be charged INR 5 Lacs per semester as PhD fees. This makes the total PhD fees for these students INR 40 Lacs at IIT Guwahati. However, this is the only fees mentioned for these students on the website.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           }
