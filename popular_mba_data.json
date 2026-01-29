@@ -202,43 +202,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "293Colleges"
+              "college_count": "293  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "214Colleges"
+              "college_count": "214  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "178Colleges"
+              "college_count": "178  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "168Colleges"
+              "college_count": "168  Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "155Colleges"
+              "college_count": "155  Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "90Colleges"
+              "college_count": "90  Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "63Colleges"
+              "college_count": "63  Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "51Colleges"
+              "college_count": "51  Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "27Colleges"
+              "college_count": "27  Colleges"
             },
             {
               "specialization": "Food Technology",
-              "college_count": "20Colleges"
+              "college_count": "20  Colleges"
             }
           ]
         }
@@ -1568,14 +1568,40 @@
     "QAN": {
       "QA": {
         "tag_name": "Ph.D",
-        "description": "Get insights from 6.4k questions on Ph.D, answered by students, alumni, and experts. You may also ask and answer any question you like about Ph.D",
+        "description": "Get insights from 5.8k questions on Ph.D, answered by students, alumni, and experts. You may also ask and answer any question you like about Ph.D",
         "stats": {
-          "Questions": "6.4k",
+          "Questions": "5.8k",
           "Discussions": "1",
-          "Active Users": "76",
+          "Active Users": "77",
           "Followers": "7775"
         },
         "questions": [
+          {
+            "question_text": "Can you suggest some affordable PhD colleges in India?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "India",
+                "tag_url": "https://www.shiksha.com/tags/india-tdp-385218"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Shikha Arora",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589762"
+                },
+                "answer_text": "Some of the top PhD colleges in India with low fees are here. Take a look PhD Colleges in India Course Fees SRM IST INR 72,000 IIT Kanpur INR 48,550 PhD Trichy INR 45,000 IIT Guwahati INR 20,000 Jamia Millia Islamia INR 31,810 Manipal University, Jaipur INR 81,900 Note - The information is taken from the official body of the college. Know more about - PhD Colleges in India",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              }
+            ]
+          },
           {
             "question_text": "How can I apply at IIT Patna for PhD programmes?",
             "tags": [
@@ -1598,7 +1624,7 @@
                 "answer_text": "IIT Patna application process is conducted in an online mode. Check below the steps to apply for IIT Patna PhD programme: Visit the official website of IIT Patna and click on application link. Fill all the personal and educational details in the form. Upload the documents. Pay the application fee. Submit the form.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1624,7 +1650,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 days ago"
+                "posted_time": "4 days ago"
               }
             ]
           },
@@ -1650,7 +1676,7 @@
                 "answer_text": "Technical University of Munich provides a 3-year PhD programme through the TUM school of Management. The programme will help to gain understanding about basics of gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more. International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more, should choose Ph.D. at TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1676,7 +1702,7 @@
                 "answer_text": "International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more should choose Ph.D. at Technical University of Munich. Technical University of Munich provides a 3-4 year PhD programme through the Graduate school of TUM, or TUM school of Management or more based on the program. The most chosen field by Indians is Management.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1702,7 +1728,7 @@
                 "answer_text": "GPA score are one of the important factor during admission and are submitted by students to improve their profiles. Students should aim 3.5 or higher to get considered by the TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1728,7 +1754,7 @@
                 "answer_text": "As per a renowned ranking body, TUM is popular for various courses. The most chosen programme by Indians is Management. The programme will help to gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1754,7 +1780,7 @@
                 "answer_text": "Indian students can get into the Technical University of Munich PhD programme by submitting proof of their qualification, work proof, and a GPA score. Students have to submit LOR, essay, SOP, transcripts, resume, and English language requirements.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1780,7 +1806,7 @@
                 "answer_text": "Technical University of Munich provides a 3-4-year PhD programme to international students. These programs are available in the different school of TUM. The programs is available through Graduate school of TUM, or TUM school of Management or more based on the program. The first-year tuition fee is nil for international students. The most chosen field by Indians is Management.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1806,33 +1832,7 @@
                 "answer_text": "The minimum eligibility for PhD at Department of Law, MDU is having a Master's degree with a minimum of 55% aggregate or its equivalent B grade in UGC seven-point scale in the subject concerned or an allied subject. Yes, you are eligible for PhD at the university.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How many specialisation of research are available for PhD at IIT Guwahati?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "IIT Guwahati - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "There are 11 research specialisations available for PhD courses at IIT Guwahati. These specialisations may or may not be available under all categories of PhD courses at IIT Guwahati. PhD specialisations at IIT Guwahati include the following: Computer Science and Engineering Electronics and Electrical Engineering Mechanical Engineering Civil Engineering Design Biosciences and Bioengineering Chemical Engineering Physics Chemistry Mathematics Humanities and Social Sciences",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           }
