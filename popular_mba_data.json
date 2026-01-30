@@ -1572,10 +1572,98 @@
         "stats": {
           "Questions": "5.8k",
           "Discussions": "1",
-          "Active Users": "77",
+          "Active Users": "69",
           "Followers": "7775"
         },
         "questions": [
+          {
+            "question_text": "Is there a PhD programme at CII School of Logistics Mumbai?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "CII School of Logistics, Amity University - Noida",
+                "tag_url": "https://www.shiksha.com/college/cii-school-of-logistics-amity-university-noida-48817"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
+                },
+                "answer_text": "Yes, CII School of Logistics Mumbai offers a PhD in Logistics and Supply Chain Management. This programme is a research-oriented doctoral-level degree and covers: The latest trends in trends in automation and digitalization (Industry 4.0). Students must complete the course eligibility and go through the selection process as set by the university for admissions.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What all exam I can prepare for as a PhD in Psychology candidate in India?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Exam",
+                "tag_url": "https://www.shiksha.com/tags/exam-tdp-4"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Rashmi Srivastava",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589866"
+                },
+                "answer_text": "You can prepare for the following exams to get admission to a PhD in Psychology in India PhD in Psychology Entrance Exam Exam Schedule UGC NET December 2026 (Tentative) CSIR NET December 2026 (Tentative) GATE February 7,  8,  14, and 15,  2026 VITREE December 2026 (Tentative) LPU NEST 20 Jan - 5 Feb 2026 Note - The information is taken from the official body of the exam. Know more about - Psychology Admission",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the eligibility required for PhD at NIPER Guwahati?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "National Institute of Pharmaceutical Education and Research S.A.S. Nagar",
+                "tag_url": "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-s-a-s-nagar-punjab-other-23374"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
+                },
+                "answer_text": "To study PhD at NIPER Guwahati students must complete the required eligibility of: Having a PG degree in relevant stream such as Pharmaceutical sciences, Life Sciences, Biotechnology, Chemistry, or any related fields. With degree scores of 60% (55% for SC/ST) minimum while the selection process depends on NIPER JEE scores.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              },
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              }
+            ]
+          },
           {
             "question_text": "Can you suggest some affordable PhD colleges in India?",
             "tags": [
@@ -1598,7 +1686,7 @@
                 "answer_text": "Some of the top PhD colleges in India with low fees are here. Take a look PhD Colleges in India Course Fees SRM IST INR 72,000 IIT Kanpur INR 48,550 PhD Trichy INR 45,000 IIT Guwahati INR 20,000 Jamia Millia Islamia INR 31,810 Manipal University, Jaipur INR 81,900 Note - The information is taken from the official body of the college. Know more about - PhD Colleges in India",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1624,7 +1712,7 @@
                 "answer_text": "IIT Patna application process is conducted in an online mode. Check below the steps to apply for IIT Patna PhD programme: Visit the official website of IIT Patna and click on application link. Fill all the personal and educational details in the form. Upload the documents. Pay the application fee. Submit the form.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -1650,7 +1738,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1676,7 +1764,7 @@
                 "answer_text": "Technical University of Munich provides a 3-year PhD programme through the TUM school of Management. The programme will help to gain understanding about basics of gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more. International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more, should choose Ph.D. at TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 days ago"
+                "posted_time": "a week ago"
               }
             ]
           },
@@ -1702,7 +1790,7 @@
                 "answer_text": "International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more should choose Ph.D. at Technical University of Munich. Technical University of Munich provides a 3-4 year PhD programme through the Graduate school of TUM, or TUM school of Management or more based on the program. The most chosen field by Indians is Management.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 days ago"
+                "posted_time": "a week ago"
               }
             ]
           },
@@ -1728,111 +1816,7 @@
                 "answer_text": "GPA score are one of the important factor during admission and are submitted by students to improve their profiles. Students should aim 3.5 or higher to get considered by the TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which Ph.D. programs are popular at TUM?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Technical University of Munich",
-                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Mukul Thapa",
-                  "profile_url": "https://www.shiksha.com/userprofile/78589800"
-                },
-                "answer_text": "As per a renowned ranking body, TUM is popular for various courses. The most chosen programme by Indians is Management. The programme will help to gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How can an Indian get into the TUM Ph.D.?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Technical University of Munich",
-                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Piyush Pandey",
-                  "profile_url": "https://www.shiksha.com/userprofile/78589892"
-                },
-                "answer_text": "Indian students can get into the Technical University of Munich PhD programme by submitting proof of their qualification, work proof, and a GPA score. Students have to submit LOR, essay, SOP, transcripts, resume, and English language requirements.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Does Technical University of Munich offer PhD?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Technical University of Munich",
-                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Rashmi Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/78590132"
-                },
-                "answer_text": "Technical University of Munich provides a 3-4-year PhD programme to international students. These programs are available in the different school of TUM. The programs is available through Graduate school of TUM, or TUM school of Management or more based on the program. The first-year tuition fee is nil for international students. The most chosen field by Indians is Management.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "I have scored 60% aggregate in LLM. Am I eligible for PhD at Department of Law, MDU?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Department of Law",
-                "tag_url": "https://www.shiksha.com/tags/department-of-law-tdp-2325145"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "heau mishr",
-                  "profile_url": "https://www.shiksha.com/userprofile/97122734"
-                },
-                "answer_text": "The minimum eligibility for PhD at Department of Law, MDU is having a Master's degree with a minimum of 55% aggregate or its equivalent B grade in UGC seven-point scale in the subject concerned or an allied subject. Yes, you are eligible for PhD at the university.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 days ago"
+                "posted_time": "a week ago"
               }
             ]
           }
