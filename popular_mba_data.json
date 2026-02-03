@@ -202,11 +202,11 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "293Colleges"
+              "college_count": "294Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "214Colleges"
+              "college_count": "215Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
@@ -218,15 +218,15 @@
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "155Colleges"
+              "college_count": "156Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "90Colleges"
+              "college_count": "91Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "63Colleges"
+              "college_count": "64Colleges"
             },
             {
               "specialization": "Chemical Engineering",
@@ -1572,10 +1572,88 @@
         "stats": {
           "Questions": "5.8k",
           "Discussions": "1",
-          "Active Users": "65",
+          "Active Users": "61",
           "Followers": "7775"
         },
         "questions": [
+          {
+            "question_text": "What is the eligibility for PhD at MET Institute of Management?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "MET Institute of Management",
+                "tag_url": "https://www.shiksha.com/college/met-institute-of-management-bandra-west-mumbai-22812"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aishwarya Malhotra",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586922"
+                },
+                "answer_text": "MET Institute of Management PhD eligibility has to be met to get admission in the institute. The general eligibility is to complete PG degree from a recognised university. Students who have cleared the University of Mumbai, PET exam or the NET-SET exam or hold an MPhil degree from any recognised university are eligible.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the fees for PhD in MET Institute of Management?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "MET Institute of Management",
+                "tag_url": "https://www.shiksha.com/college/met-institute-of-management-bandra-west-mumbai-22812"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Pallavi Karan",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586540"
+                },
+                "answer_text": "MET Institute of Management PhD fees is INR 2.4 lakh. Students have to pay the fees before the last date. The fees can be paid through the accepted payment gateway. Students can go to the official site of the institute to know more.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              }
+            ]
+          },
+          {
+            "question_text": "Does Dr. D. Y. Patil College of Physiotherapy offer PhD?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Dr. D. Y. Patil College of Physiotherapy, Dr. D. Y. Patil Vidyapeeth",
+                "tag_url": "https://www.shiksha.com/college/dr-d-y-patil-college-of-physiotherapy-dr-d-y-patil-vidyapeeth-pimpri-pune-36976"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "heena agrawaltry to give best solution..",
+                  "profile_url": "https://www.shiksha.com/userprofile/4889108"
+                },
+                "answer_text": "Hi. The college, which is part of Dr. D. Y. Patil Vidyapeeth, Pimpri, Pune (a deemed-to-be university), offers doctoral (Ph.D.) programs including in Physiotherapy. It's designed for students who want to pursue advanced research in Physiotherapy and related fields. Eligibility To be eligible for Ph.D. in Physiotherapy you generally need: A Master's degree (MPT) or equivalent postgraduate qualification in a relevant field with a minimum aggregate (typically 55% for general category, with some relaxations for reserved categories). You must also appear in and qualify the university's Common Entrance Test (CET/PET) conduc",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              }
+            ]
+          },
           {
             "question_text": "Is there a PhD programme at CII School of Logistics Mumbai?",
             "tags": [
@@ -1598,7 +1676,7 @@
                 "answer_text": "Yes, CII School of Logistics Mumbai offers a PhD in Logistics and Supply Chain Management. This programme is a research-oriented doctoral-level degree and covers: The latest trends in trends in automation and digitalization (Industry 4.0). Students must complete the course eligibility and go through the selection process as set by the university for admissions.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "4 days ago"
               }
             ]
           },
@@ -1624,7 +1702,7 @@
                 "answer_text": "You can prepare for the following exams to get admission to a PhD in Psychology in India PhD in Psychology Entrance Exam Exam Schedule UGC NET December 2026 (Tentative) CSIR NET December 2026 (Tentative) GATE February 7,  8,  14, and 15,  2026 VITREE December 2026 (Tentative) LPU NEST 20 Jan - 5 Feb 2026 Note - The information is taken from the official body of the exam. Know more about - Psychology Admission",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "4 days ago"
               }
             ]
           },
@@ -1650,7 +1728,7 @@
                 "answer_text": "To study PhD at NIPER Guwahati students must complete the required eligibility of: Having a PG degree in relevant stream such as Pharmaceutical sciences, Life Sciences, Biotechnology, Chemistry, or any related fields. With degree scores of 60% (55% for SC/ST) minimum while the selection process depends on NIPER JEE scores.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 days ago"
+                "posted_time": "5 days ago"
               },
               {
                 "author": {
@@ -1660,7 +1738,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 days ago"
+                "posted_time": "5 days ago"
               }
             ]
           },
@@ -1686,7 +1764,7 @@
                 "answer_text": "Some of the top PhD colleges in India with low fees are here. Take a look PhD Colleges in India Course Fees SRM IST INR 72,000 IIT Kanpur INR 48,550 PhD Trichy INR 45,000 IIT Guwahati INR 20,000 Jamia Millia Islamia INR 31,810 Manipal University, Jaipur INR 81,900 Note - The information is taken from the official body of the college. Know more about - PhD Colleges in India",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1712,7 +1790,7 @@
                 "answer_text": "IIT Patna application process is conducted in an online mode. Check below the steps to apply for IIT Patna PhD programme: Visit the official website of IIT Patna and click on application link. Fill all the personal and educational details in the form. Upload the documents. Pay the application fee. Submit the form.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1736,84 +1814,6 @@
                   "profile_url": null
                 },
                 "answer_text": null,
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "a week ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How is the Management PhD programme at TUM?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Technical University of Munich",
-                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Akansha katariya",
-                  "profile_url": "https://www.shiksha.com/userprofile/62699389"
-                },
-                "answer_text": "Technical University of Munich provides a 3-year PhD programme through the TUM school of Management. The programme will help to gain understanding about basics of gain understanding about basics of Strategic Management, Operations, Finance, Marketing and Tech Management, and more. International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more, should choose Ph.D. at TUM.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "a week ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Who should join TUM for the Ph.D.?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Technical University of Munich",
-                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Gunjan Aggrawal",
-                  "profile_url": "https://www.shiksha.com/userprofile/78589948"
-                },
-                "answer_text": "International applicants, who are looking for career as Professor, Consultant, Market Research Lead, and more should choose Ph.D. at Technical University of Munich. Technical University of Munich provides a 3-4 year PhD programme through the Graduate school of TUM, or TUM school of Management or more based on the program. The most chosen field by Indians is Management.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "a week ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How much GPA score is required for the TUM Ph.D.?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Technical University of Munich",
-                "tag_url": "https://www.shiksha.com/germany/universities/technical-university-of-munich"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Jasleen Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/78589986"
-                },
-                "answer_text": "GPA score are one of the important factor during admission and are submitted by students to improve their profiles. Students should aim 3.5 or higher to get considered by the TUM.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "a week ago"
