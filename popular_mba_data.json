@@ -202,43 +202,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "293  Colleges"
+              "college_count": "292Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "215  Colleges"
+              "college_count": "215Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "178  Colleges"
+              "college_count": "178Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "168  Colleges"
+              "college_count": "168Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "156  Colleges"
+              "college_count": "156Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "90  Colleges"
+              "college_count": "90Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "64  Colleges"
+              "college_count": "64Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "51  Colleges"
+              "college_count": "51Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "27  Colleges"
+              "college_count": "27Colleges"
             },
             {
               "specialization": "Food Technology",
-              "college_count": "20  Colleges"
+              "college_count": "20Colleges"
             }
           ]
         }
@@ -1568,50 +1568,24 @@
     "QAN": {
       "QA": {
         "tag_name": "Ph.D",
-        "description": "Get insights from 5.8k questions on Ph.D, answered by students, alumni, and experts. You may also ask and answer any question you like about Ph.D",
+        "description": "Get insights from 5.9k questions on Ph.D, answered by students, alumni, and experts. You may also ask and answer any question you like about Ph.D",
         "stats": {
-          "Questions": "5.8k",
+          "Questions": "5.9k",
           "Discussions": "1",
           "Active Users": "60",
           "Followers": "7775"
         },
         "questions": [
           {
-            "question_text": "What is the minimum and maximum duration of a Ph.D. programme (full time/part time) at LPU?",
+            "question_text": "Can I change my area of research after securing my admission to the MDSU Ajmer PhD course?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vaani",
-                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
-                },
-                "answer_text": "Lovely Professional University has a well-defined duration structure for its Ph.D. programmes applicable to both full-time and part-time scholars. As per the university regulations, the minimum duration for completing a Ph.D. is three years from the date of registration. This period includes mandatory coursework, research methodology training, comprehensive evaluation, original research work, publication requirements (where applicable), thesis writing, and final viva-voce examination. The minimum duration ensures that scholars devote sufficient time to in-depth research and contribute meaningfully to their chosen field of study. T",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I get direct admissions into the PhD courses of NIT Srinagar?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1621,23 +1595,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "No, candidates who wish to get admissions into the PhD course at NIT Srinagar are required to appear for one of the accepted entrance exams. After qualifying in the entrance exam, the institute further evaluates candidates through a written test as well as personal interview round.",
+                "answer_text": "Yes, PhD students can change their field of research after securing admissions into MDSU Ajmer. However, such a change is only done under special circumstances on the recommendation of the research supervisor. Thus, candidates need to prove a valid reason for the change in their chosen field of research for the MDSU Ajmer PhD course.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "17 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is work experience mandatory for PhD admissions at NIT Srinagar?",
+            "question_text": "Are there any scholarships or financial assistance provided to MDSU Ajmer PhD students?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1647,23 +1621,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "For sponsored or full-time working candidates for NIT Srinagar PhD admissions, it is mandatory to have a work experience of two years with their current employer to be eligible for PhD admissions. However, candidates from other categories do not have such eligibility requirements for NIT Srinagar PhD admissions.",
+                "answer_text": "Yes, the MDSU Ajmer PhD students are eligible for sports scholarships if they successfully secure admissions at the institute. The sports scholarships at MDSU Ajmer is offered by UGC to candidates who have secured achievements in national or international level sports events. These candidates are required to provide adequate proof of their achievements to claim this scholarship.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "17 hours ago"
               }
             ]
           },
           {
-            "question_text": "What are the documents required for NIT Srinagar PhD admission process?",
+            "question_text": "Is PhD at MDSU Ajmer available in Full-time or Part-time mode?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1673,23 +1647,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "The documents required for NIT Srinagar PhD admission process must be presented by candidates in person during the personal interview round. These documents include the following: Class 10th and Class 12th marksheet as well as passing certificate Graduation degree Post graduation degree GATE/UGC NET scorecard No Objection Certificate Passport sized photographs ID and address proof",
+                "answer_text": "The MDSU Ajmer PhD course is availabl in both full-time and part-time modes at MDSU Ajmer. Under part-time mode, candidates can get admission in two categories which include Part/Full-time employment and Project category. Candidates who are applying for these categories must produce a no objection certificate from their employer to secure PhD admissions at MDSU Ajmer.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "17 hours ago"
               }
             ]
           },
           {
-            "question_text": "Can I apply for NIT Srinagar PhD admissions while waiting for final exam results?",
+            "question_text": "I have completed a PG level course of one year duration. Am I eligible for MDSU Ajmer PhD admissions?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1699,23 +1673,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "There is no mention of NIT Srinagar PhD admissions being open for candidates who are yet to receive their final scorecard. Generally, PhD admissions are not open to candidates who cannot produce their final marksheet and degree at the time of admissions. Hence, candidates should assume that they cannot apply for NIT Srinagar PhD courses without their final exam scorecard.",
+                "answer_text": "Yes, candidates who hold a master's degree of a one-year course from a recognised institute with a minimum aggregate of 55% are eligible for MDSU Ajmer PhD admissions. However, such candidates must have completed a bachelor's degree of four years to be eligible for MDSU Ajmer PhD courses.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "18 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is the NIT Srinagar PhD fees refundable?",
+            "question_text": "What documents do I need to apply for the MDSU Ajmer PhD courses?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1725,23 +1699,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Only the caution deposit paid at the time of admissions by a candidates is refundable at NIT Srinagar. The remaining fees is not refunded to the candidates by NIT Srinagar under any circumstances. To be eligible for the caution deposit refund, candidates need to complete the PhD course curriculum.",
+                "answer_text": "Applying for MDSU Ajmer PhD admissions will require candidates to bring physical copies of the below mentioned documents at the time of the interview round: Class 10th and Class 12th Marksheet as well as certificate Graduation degree Post graduation degree Statement of purpose Research proposal No objection certificate Sponsorship letter ID and address proof",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "18 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the PhD fees at NIT Srinagar?",
+            "question_text": "Can I apply for MDSU Ajmer PhD admissions in offline mode?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1751,23 +1725,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "NIT Srinagar is yet to announce the PhD course fees for the academic year 2026. In the previous year, the course fees stood INR 1.54 Lacs for the general category students of NIT Srinagar PhD. For candidates in the SC, ST, PwD categories, the PhD course fees at NIT Srinagar stoodat INR 94,900.",
+                "answer_text": "No, the MDSU Ajmer PhD admissions are not open for offline mode of applications. PhD admissions at MDSU Ajmer are subject to the UGC norms which require candidates to appear for the UGC NET to qualify for PhD at MDSU Ajmer. The registrations for UGC NET cannot be done in offline mode.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "18 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the date of PhD entrance exam at NIT Srinagar?",
+            "question_text": "Are admissions to MDSU Ajmer PhD courses open?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1777,23 +1751,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "The national level NIT Srinagar entrance exam for PhD admissions has not been scheduled for the academic year 2026. Usually, the aforementioned entrance exam is scheduled near the end of July each year. The results for the same are announced in the month of August.",
+                "answer_text": "No, the MDSU Ajmer PhD admissions are yet to be opened for the academic year 2026. Candidates must go to the website of MDSU Ajmer to check if the PhD admissions are open. When the PhD admissions are opened, the admission portal of MDSU Ajmer will reflect the current academic year.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "18 hours ago"
               }
             ]
           },
           {
-            "question_text": "Are PhD admissions open at NIT Srinagar?",
+            "question_text": "Is UGC NET still open for registrations to the MDSU Ajmer PhD admissions?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1803,23 +1777,23 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "No, the 2026 admissions for NIT Srinagar PhD are yet to be opened. The institute schedules the application window for NIT Srinagar PhD admissions between the months of June and July. The results of the NIT Srinagar PhD admission process are revealed during the month of August and September.",
+                "answer_text": "No the registrations for the UGC NET are not open for MDSU Ajmer PhD admissions for the academic year 2026. The December session of UGC NET for 2026 admissions is already over. However, the registrations for the June session are yet to begin. Candidates interested in MDSU Ajmer PhD admissions need to wait for UGC NET registrations to begin.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "18 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is UGC NET mandatory for NIT Srinagar PhD admissions?",
+            "question_text": "Is UGC NET mandatory for MDSU Ajmer PhD admissions?",
             "tags": [
               {
                 "tag_name": "Ph.D",
                 "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
               },
               {
-                "tag_name": "NIT Srinagar - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-srinagar-national-institute-of-technology-24264"
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
               }
             ],
             "followers": 0,
@@ -1829,10 +1803,36 @@
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "No, UGC NET is not a mandatory entrance exam for NIT Srinagar PhD admissions. Candidates can also appear in the GATE as well to qualify for admissions to the NIT Srinagar PhD course. However, candidates who are applying through a ME/MTech score are required to appear for the national level NIT Srinagar entrance exam instead of the aforementioned exams.",
+                "answer_text": "Yes, UGC-NET is a mandatory entrance exam for MDSU Ajmer PhD admissions. All candidates who are eligible for MDSU Ajmer PhD course must appear for the UGC-NET as well as participate in the interview round to gain admissions. The selection of candidates will be based on their UGC-NET score.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "18 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are PhD students of MDSU Ajmer offered any relaxation of maximum course duration?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Maharshi Dayanand Saraswati University",
+                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "Yes, PhD students who are female or recognised under Persons with Disabilities will be offered a two year relaxation for maximum PhD course duration. Unlike the general category which can only have a maximum duration of six years, candidates of the aforementioned categories can have a duration just below 10 years at MDSU Ajmer.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "18 hours ago"
               }
             ]
           }
