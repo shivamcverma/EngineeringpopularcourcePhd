@@ -1572,10 +1572,36 @@
         "stats": {
           "Questions": "5.9k",
           "Discussions": "1",
-          "Active Users": "60",
+          "Active Users": "59",
           "Followers": "7775"
         },
         "questions": [
+          {
+            "question_text": "Does KIET deemed-to-be University offer PhD?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "KIET University",
+                "tag_url": "https://www.shiksha.com/university/kiet-university-ghaziabad-962"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Virajita Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/68973349"
+                },
+                "answer_text": "Yes, KIET deemed-to-be University does offer PhD courses. The university offers the course to eligible students. Some of the PhD courses include PhD in CSE, PhD in IT, PhD in Electronics & Communication Engineering, and more. To know more, students can check the official site.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "Can I change my area of research after securing my admission to the MDSU Ajmer PhD course?",
             "tags": [
@@ -1598,7 +1624,7 @@
                 "answer_text": "Yes, PhD students can change their field of research after securing admissions into MDSU Ajmer. However, such a change is only done under special circumstances on the recommendation of the research supervisor. Thus, candidates need to prove a valid reason for the change in their chosen field of research for the MDSU Ajmer PhD course.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "17 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1624,7 +1650,7 @@
                 "answer_text": "Yes, the MDSU Ajmer PhD students are eligible for sports scholarships if they successfully secure admissions at the institute. The sports scholarships at MDSU Ajmer is offered by UGC to candidates who have secured achievements in national or international level sports events. These candidates are required to provide adequate proof of their achievements to claim this scholarship.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "17 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1650,7 +1676,7 @@
                 "answer_text": "The MDSU Ajmer PhD course is availabl in both full-time and part-time modes at MDSU Ajmer. Under part-time mode, candidates can get admission in two categories which include Part/Full-time employment and Project category. Candidates who are applying for these categories must produce a no objection certificate from their employer to secure PhD admissions at MDSU Ajmer.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "17 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1676,7 +1702,7 @@
                 "answer_text": "Yes, candidates who hold a master's degree of a one-year course from a recognised institute with a minimum aggregate of 55% are eligible for MDSU Ajmer PhD admissions. However, such candidates must have completed a bachelor's degree of four years to be eligible for MDSU Ajmer PhD courses.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1702,7 +1728,7 @@
                 "answer_text": "Applying for MDSU Ajmer PhD admissions will require candidates to bring physical copies of the below mentioned documents at the time of the interview round: Class 10th and Class 12th Marksheet as well as certificate Graduation degree Post graduation degree Statement of purpose Research proposal No objection certificate Sponsorship letter ID and address proof",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1728,7 +1754,7 @@
                 "answer_text": "No, the MDSU Ajmer PhD admissions are not open for offline mode of applications. PhD admissions at MDSU Ajmer are subject to the UGC norms which require candidates to appear for the UGC NET to qualify for PhD at MDSU Ajmer. The registrations for UGC NET cannot be done in offline mode.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1754,7 +1780,7 @@
                 "answer_text": "No, the MDSU Ajmer PhD admissions are yet to be opened for the academic year 2026. Candidates must go to the website of MDSU Ajmer to check if the PhD admissions are open. When the PhD admissions are opened, the admission portal of MDSU Ajmer will reflect the current academic year.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1780,7 +1806,7 @@
                 "answer_text": "No the registrations for the UGC NET are not open for MDSU Ajmer PhD admissions for the academic year 2026. The December session of UGC NET for 2026 admissions is already over. However, the registrations for the June session are yet to begin. Candidates interested in MDSU Ajmer PhD admissions need to wait for UGC NET registrations to begin.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1806,33 +1832,7 @@
                 "answer_text": "Yes, UGC-NET is a mandatory entrance exam for MDSU Ajmer PhD admissions. All candidates who are eligible for MDSU Ajmer PhD course must appear for the UGC-NET as well as participate in the interview round to gain admissions. The selection of candidates will be based on their UGC-NET score.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Are PhD students of MDSU Ajmer offered any relaxation of maximum course duration?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Maharshi Dayanand Saraswati University",
-                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "Yes, PhD students who are female or recognised under Persons with Disabilities will be offered a two year relaxation for maximum PhD course duration. Unlike the general category which can only have a maximum duration of six years, candidates of the aforementioned categories can have a duration just below 10 years at MDSU Ajmer.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "2 days ago"
               }
             ]
           }
