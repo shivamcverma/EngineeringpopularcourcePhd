@@ -1577,6 +1577,32 @@
         },
         "questions": [
           {
+            "question_text": "What is the selection process for PhD applicants at Ravenshaw University?",
+            "tags": [
+              {
+                "tag_name": "Ph.D",
+                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
+              },
+              {
+                "tag_name": "Ravenshaw University",
+                "tag_url": "https://www.shiksha.com/university/ravenshaw-university-cuttack-52514"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Raj Priya",
+                  "profile_url": "https://www.shiksha.com/userprofile/100577002"
+                },
+                "answer_text": "PhD applicants at Ravenshaw University should have qualified RET or  Qualify one among UGC or CSIR NET/ JRF/ GATE or INSPIRE Fellowship. The applicants aso have to perform well in the Interview in order to get selected for PhD programme.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "22 hours ago"
+              }
+            ]
+          },
+          {
             "question_text": "Does IIT Roorkee offer PhD in Design course through CEED?",
             "tags": [
               {
@@ -1598,7 +1624,7 @@
                 "answer_text": "IIT Roorkee doesn't offer PhD in Design course through CEED. It only offers a MDes in Industrial Design. Admission to the M.Des programme will be based on CEED 2026 merit rank. The candidate will have to apply directly to the participating college once results are declared.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "14 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1624,7 +1650,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -1650,7 +1676,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -1676,7 +1702,7 @@
                 "answer_text": "All eligible candidates have to appear for an Analytical Ability and Research Aptitude Test (AARAT) and personal interview. Students who have qualified in the GATE/CSIR-UGCNET/SLET/CAT/GMAT/GPAT/ GRE/JEST/NBHM/JGEEBILS, do not have to appear in AARAT exam. They can apply directly for PhD admission at Vignan's Foundation for Science, Technology and Research. They have to give the personal interview though.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 days ago"
+                "posted_time": "4 days ago"
               }
             ]
           },
@@ -1702,7 +1728,7 @@
                 "answer_text": "Candidates must complete a four-year bachelor's degree with 7.5 CGPA out of 10 or, master's degree or equivalent in any discipline with at least 55% aggregate to apply for PhD programme at XIMB Bhubaneswar. Aspirants must have documents proving their eligibility for verification.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 days ago"
+                "posted_time": "4 days ago"
               }
             ]
           },
@@ -1728,7 +1754,7 @@
                 "answer_text": "Yes, KIET deemed-to-be University does offer PhD courses. The university offers the course to eligible students. Some of the PhD courses include PhD in CSE, PhD in IT, PhD in Electronics & Communication Engineering, and more. To know more, students can check the official site.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 days ago"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -1754,7 +1780,7 @@
                 "answer_text": "Yes, PhD students can change their field of research after securing admissions into MDSU Ajmer. However, such a change is only done under special circumstances on the recommendation of the research supervisor. Thus, candidates need to prove a valid reason for the change in their chosen field of research for the MDSU Ajmer PhD course.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 days ago"
+                "posted_time": "a week ago"
               }
             ]
           },
@@ -1780,7 +1806,7 @@
                 "answer_text": "Yes, the MDSU Ajmer PhD students are eligible for sports scholarships if they successfully secure admissions at the institute. The sports scholarships at MDSU Ajmer is offered by UGC to candidates who have secured achievements in national or international level sports events. These candidates are required to provide adequate proof of their achievements to claim this scholarship.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 days ago"
+                "posted_time": "a week ago"
               }
             ]
           },
@@ -1806,33 +1832,7 @@
                 "answer_text": "The MDSU Ajmer PhD course is availabl in both full-time and part-time modes at MDSU Ajmer. Under part-time mode, candidates can get admission in two categories which include Part/Full-time employment and Project category. Candidates who are applying for these categories must produce a no objection certificate from their employer to secure PhD admissions at MDSU Ajmer.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "I have completed a PG level course of one year duration. Am I eligible for MDSU Ajmer PhD admissions?",
-            "tags": [
-              {
-                "tag_name": "Ph.D",
-                "tag_url": "https://www.shiksha.com/tags/ph-d-tdp-449"
-              },
-              {
-                "tag_name": "Maharshi Dayanand Saraswati University",
-                "tag_url": "https://www.shiksha.com/university/mdsu-maharshi-dayanand-saraswati-university-ajmer-24105"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "Yes, candidates who hold a master's degree of a one-year course from a recognised institute with a minimum aggregate of 55% are eligible for MDSU Ajmer PhD admissions. However, such candidates must have completed a bachelor's degree of four years to be eligible for MDSU Ajmer PhD courses.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "6 days ago"
+                "posted_time": "a week ago"
               }
             ]
           }
